@@ -5,6 +5,7 @@ The project is an implementation of an Evolutionary Algorithms in Java for follo
 * The LOLZ Prefix Problem
 * Surprising sequences
 
+The One-Max Problem:
 This is a search problem that is trivial for a human to solve but slightly more difficult for an EA.
 The goal is simply to find a bit vector (of some pre-determined length) containing all 1's. So for
 the 20-bit OneMax problem, the goal is to find the 20-bit vector containing all 1's. Since an EA
