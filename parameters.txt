@@ -1,0 +1,28 @@
+//Problem: 0-OneMax; 1-LOLZ; 2-Sequences
+2
+//Adult selection 0-fullreplacement; 1-overload replacement; 2-generational mixing
+2
+//parent selection 0-bestfitness; 1-fitness proportionate; 2-sigma scaling; 3-tournament
+2
+//init population
+1000
+//max adults
+100
+//max parents
+100
+//number of symbols (digits, letters)
+34
+//mutation threshold (/100)
+90
+//crossover threshold (/100)
+30
+//onemax/lolz size
+40
+//lolz - zero theshold
+500
+//sequences - length
+70
+//sequence global? (0/1)
+1
+//find longest? (0/1)
+0
